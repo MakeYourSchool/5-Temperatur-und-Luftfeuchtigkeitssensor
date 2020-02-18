@@ -1,4 +1,4 @@
-Temperatur- und Luftfeuchtigkeitssensor  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor)
+Temperatur- und Luftfeuchtigkeitssensor
 =====================================
 
 Dies ist die Arduino Bibliothek für den Temperatur- und Luftfeuchtigkeitssensor
