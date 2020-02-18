@@ -1,23 +1,23 @@
 Grove_Temperature_And_Humidity_Sensor  [![Build Status](https://travis-ci.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor)
 =====================================
 
-This is an Arduino library for the DHT series of low cost temperature/humidity sensors.
+Dies ist die Arduino Bibliothek für den Temperatur- und Luftfeuchtigkeitssensor
 
 <img src=https://statics3.seeedstudio.com/images/101020011%201.jpg width=300>
 
-[Grove - Temperature & Humidity Sensor （DHT11）](https://www.seeedstudio.com/Grove-Temperature-%26-Humidity-Sensor-%EF%BC%88DHT11%EF%BC%89-p-745.html)
+[Temperatur- und Luftfeuchtigkeitssensor）](https://www.seeedstudio.com/Grove-Temperature-%26-Humidity-Sensor-%EF%BC%88DHT11%EF%BC%89-p-745.html)
 
 <img src=https://statics3.seeedstudio.com/images/101020019%201.jpg width=300>
 
-[Grove - Temperature&Humidity Sensor Pro（AM2302)](https://www.seeedstudio.com/Grove-Temperature%26Humidity-Sensor-Pro%EF%BC%88AM2302%EF%BC%89-p-838.html)
+[Grove - Temperature&Humidity Sensor Pro（AM2302)](https://www.makeyourschool.de/material/temperatur-luftfeuchtigkeitssensor/)
 
-This temperature & humidity sensor provides a pre-calibrated digital output. A unique capacitive sensor element measures relative humidity and the temperature is measured by a negative temperature coefficient (NTC) thermistor. It has excellent reliability and long term stability. 
+Der Temperatur- und Luftfeuchtigkeitssensor kann zum Messen der Temperatur und der relativen Luftfeuchtigkeit in seiner direkten Umgebung eingesetzt werden. Der Sensor ist vom Hersteller so voreingestellt, dass die Messdaten als sauberes, digitales Signal ausgegeben werden. Das heißt, dass es dabei keine Messschwankungen oder Messfehler gibt, ein unverfälschtes Messsignal also. Dadurch besitzt der Sensor eine hohe Präzision, Zuverlässigkeit und Langzeitstabilität. Zusätzlich sind auch lange Kabel (>20 m) als Datenübertragung zwischen Sensor und Mikrocontroller kein Problem. Der Sensor arbeitet allerdings nur bei Umgebungstemperaturen über 0 °C.
 
-For more information please visit [wiki DHT11](http://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/) and [wiki AM2302](http://wiki.seeedstudio.com/Grove-Temperature_and_Humidity_Sensor_Pro/)
+Der Sensor kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Der Sensor kommuniziert über einen digitalen Pin.
 
-****
+Das Modul wird beispielsweise in einer Messstation für Umweltdaten, wie Feinstaub, Lautstärke, Luftfeuchtigkeit, Temperatur und UV-Strahlung eingesetzt.
 
-Add support for DHT10 , The different from other DHT* device is that it uses i2c interface.  
+Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwendigen Programmbibliotheken sind auf dem offiziellen Wiki (bisher nur in englischer Sprache) von Seeed Studio zusammengefasst [Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/) 
 
 ----
 
