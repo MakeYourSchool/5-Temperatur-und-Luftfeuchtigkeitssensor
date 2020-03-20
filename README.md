@@ -1,4 +1,4 @@
-Feinstaubsensor
+Temperatur und Luftfeuchtigkeitssensor
 ----
 *(Seeed Studio Grove - DHT11 Feuchte- und Temperatursensor)*
 
