@@ -3,7 +3,7 @@ Temperatur und Luftfeuchtigkeitssensor
 *(Seeed Studio Grove - DHT11 Feuchte- und Temperatursensor)*
 
 <img src=https://www.makeyourschool.de/wp-content/uploads/2018/08/5_temperatur-und-luftfeuchtigkeitssensor-1024x1024.jpg width=400px>
-*Bildquelle:https://www.makeyourschool.de/wp-content/uploads/2018/08/5_temperatur-und-luftfeuchtigkeitssensor-1024x1024.jpg*
+*Bildquelle:https://www.makeyourschool.de/wp-content/uploads/2018/08/5_temperatur-und-luftfeuchtigkeitssensor-1024x1024.jpg *
 
 Der Temperatur- und Luftfeuchtigkeitssensor kann zum Messen der Temperatur und der relativen Luftfeuchtigkeit in seiner direkten Umgebung eingesetzt werden. Der Sensor ist vom Hersteller so voreingestellt, dass die Messdaten als sauberes, digitales Signal ausgegeben werden. Das heißt, dass es dabei keine Messschwankungen oder Messfehler gibt, ein unverfälschtes Messsignal also. Dadurch besitzt der Sensor eine hohe Präzision, Zuverlässigkeit und Langzeitstabilität. Zusätzlich sind auch lange Kabel (>20 m) als Datenübertragung zwischen Sensor und Mikrocontroller kein Problem. Der Sensor arbeitet allerdings nur bei Umgebungstemperaturen über 0 °C.
 
