@@ -27,4 +27,4 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 [Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)
 
-[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/temperatur-luftfeuchtigkeitssensor/)
+[Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/temperatur-luftfeuchtigkeitssensor/)
