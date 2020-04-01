@@ -23,8 +23,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-TemperatureAndHumidity_Sensor/)
 
 [Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/temperatur-luftfeuchtigkeitssensor/)
