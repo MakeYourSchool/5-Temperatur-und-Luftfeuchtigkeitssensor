@@ -21,6 +21,7 @@ Mit diesen **Bibliotheken und Beispiel-Codes** kann der euch vorliegende Sensor/
 Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. Die deutsche Übersetzung stammt von *Make Your School*, Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die Lizenzrechte (siehe License.txt) beachtet werden.
 
 
+
 **Weitere Informationen:**
 
 [Repository von Seed Studio](https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor)
